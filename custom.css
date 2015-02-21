@@ -1,0 +1,28 @@
+/* Report Specific */
+.align-right {
+  text-align:right;
+}
+
+.align-left {
+  text-align:left;
+}
+
+.align-center {
+  text-align:center;
+}
+
+.align-middle {
+  vertical-align:middle;
+}
+
+body {
+  background: #E1F0F5;
+}
+
+table.container-bkg {
+  background: white;
+}
+
+table.container td.container-padding{
+  padding: 10px 20px;
+}
